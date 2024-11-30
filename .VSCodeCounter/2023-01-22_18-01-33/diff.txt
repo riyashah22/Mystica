@@ -1,0 +1,50 @@
+Date : 2023-01-22 18:01:33
+Directory : d:\Flutter_projects\updated\sds\Mystica
+Total : 11 files,  151 codes, 1 comments, 12 blanks, all 164 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         11 |        151 |          1 |         12 |        164 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |         11 |        151 |          1 |         12 |        164 |
+| lib                                                                                                      |         11 |        151 |          1 |         12 |        164 |
+| lib\data                                                                                                 |          1 |         12 |          3 |          3 |         18 |
+| lib\data\local                                                                                           |          1 |         12 |          3 |          3 |         18 |
+| lib\data\local\db                                                                                        |          1 |         12 |          3 |          3 |         18 |
+| lib\screens                                                                                              |          9 |        138 |         -2 |          9 |        145 |
+| lib\screens\submain-screens                                                                              |          9 |        138 |         -2 |          9 |        145 |
+| lib\screens\submain-screens\album                                                                        |          3 |         80 |          2 |          4 |         86 |
+| lib\screens\submain-screens\album (Files)                                                                |          2 |         76 |          2 |          4 |         82 |
+| lib\screens\submain-screens\album\image                                                                  |          1 |          4 |          0 |          0 |          4 |
+| lib\screens\submain-screens\journal                                                                      |          2 |         24 |        -10 |          0 |         14 |
+| lib\screens\submain-screens\notebook                                                                     |          2 |         24 |         -2 |          1 |         23 |
+| lib\screens\submain-screens\reminder                                                                     |          1 |          6 |          6 |          2 |         14 |
+| lib\screens\submain-screens\todo                                                                         |          1 |          4 |          2 |          2 |          8 |
+| lib\widgets                                                                                              |          1 |          1 |          0 |          0 |          1 |
+| lib\widgets\Items                                                                                        |          1 |          1 |          0 |          0 |          1 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                 | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\db\app_db.dart                                    | Dart     |         12 |          3 |          3 |         18 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\album_screen.dart              | Dart     |          2 |          0 |          0 |          2 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\edit_album_screen.dart         | Dart     |         74 |          2 |          4 |         80 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\image\detail_image_screen.dart | Dart     |          4 |          0 |          0 |          4 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\journal\create_journal_screen.dart   | Dart     |         11 |         -4 |          1 |          8 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\journal\journal_screen.dart          | Dart     |         13 |         -6 |         -1 |          6 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\edit_notebook.dart          | Dart     |         24 |         -2 |          2 |         24 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\notebook_screen.dart        | Dart     |          0 |          0 |         -1 |         -1 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\reminder\reminder_screen.dart        | Dart     |          6 |          6 |          2 |         14 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\todo\todo_screen.dart                | Dart     |          4 |          2 |          2 |          8 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\album_item.dart                                | Dart     |          1 |          0 |          0 |          1 |
+| Total                                                                                                    |          |        151 |          1 |         12 |        164 |
++----------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

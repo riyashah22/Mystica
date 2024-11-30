@@ -1,0 +1,128 @@
+Date : 2023-01-27 02:05:43
+Directory : d:\Flutter_projects\updated\sds\Mystica
+Total : 68 files,  10734 codes, 533 comments, 744 blanks, all 12011 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         54 |     10,242 |        375 |        581 |     11,198 |
+| C++      |         10 |        407 |         80 |        131 |        618 |
+| YAML     |          2 |         56 |         78 |         19 |        153 |
+| CMake    |          1 |         19 |          0 |          6 |         25 |
+| Markdown |          1 |         10 |          0 |          7 |         17 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         68 |     10,734 |        533 |        744 |     12,011 |
+| . (Files)                                                                                                 |          3 |         66 |         78 |         26 |        170 |
+| lib                                                                                                       |         54 |     10,242 |        375 |        581 |     11,198 |
+| lib (Files)                                                                                               |          1 |         81 |          9 |          4 |         94 |
+| lib\data                                                                                                  |         10 |      2,694 |         58 |        168 |      2,920 |
+| lib\data\local                                                                                            |         10 |      2,694 |         58 |        168 |      2,920 |
+| lib\data\local\db                                                                                         |          2 |      2,624 |         58 |        152 |      2,834 |
+| lib\data\local\entity                                                                                     |          8 |         70 |          0 |         16 |         86 |
+| lib\models                                                                                                |          7 |         96 |          0 |         15 |        111 |
+| lib\models\Gallery                                                                                        |          2 |         28 |          0 |          5 |         33 |
+| lib\models\Journal                                                                                        |          1 |         14 |          0 |          2 |         16 |
+| lib\models\Notebook                                                                                       |          2 |         30 |          0 |          4 |         34 |
+| lib\models\reminder                                                                                       |          1 |         12 |          0 |          2 |         14 |
+| lib\models\todo                                                                                           |          1 |         12 |          0 |          2 |         14 |
+| lib\screens                                                                                               |         25 |      6,049 |        235 |        316 |      6,600 |
+| lib\screens (Files)                                                                                       |          1 |         86 |          6 |          7 |         99 |
+| lib\screens\main-screen                                                                                   |          5 |      1,561 |         78 |         55 |      1,694 |
+| lib\screens\submain-screens                                                                               |         19 |      4,402 |        151 |        254 |      4,807 |
+| lib\screens\submain-screens\album                                                                         |          6 |      1,299 |         63 |         79 |      1,441 |
+| lib\screens\submain-screens\album (Files)                                                                 |          3 |        599 |         30 |         40 |        669 |
+| lib\screens\submain-screens\album\image                                                                   |          3 |        700 |         33 |         39 |        772 |
+| lib\screens\submain-screens\journal                                                                       |          4 |        871 |         28 |         46 |        945 |
+| lib\screens\submain-screens\notebook                                                                      |          7 |      1,462 |         25 |         90 |      1,577 |
+| lib\screens\submain-screens\notebook (Files)                                                              |          3 |        788 |         17 |         47 |        852 |
+| lib\screens\submain-screens\notebook\note                                                                 |          4 |        674 |          8 |         43 |        725 |
+| lib\screens\submain-screens\reminder                                                                      |          1 |        390 |         17 |         19 |        426 |
+| lib\screens\submain-screens\todo                                                                          |          1 |        380 |         18 |         20 |        418 |
+| lib\widgets                                                                                               |         11 |      1,322 |         73 |         78 |      1,473 |
+| lib\widgets (Files)                                                                                       |          1 |        248 |          2 |          5 |        255 |
+| lib\widgets\Items                                                                                         |         10 |      1,074 |         71 |         73 |      1,218 |
+| windows                                                                                                   |         11 |        426 |         80 |        137 |        643 |
+| windows\flutter                                                                                           |          3 |         30 |          9 |         17 |         56 |
+| windows\runner                                                                                            |          8 |        396 |         71 |        120 |        587 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                  | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Flutter_projects\updated\sds\Mystica\README.md                                                         | Markdown |         10 |          0 |          7 |         17 |
+| d:\Flutter_projects\updated\sds\Mystica\analysis_options.yaml                                             | YAML     |          3 |         23 |          4 |         30 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\db\app_db.dart                                     | Dart     |        195 |         56 |         53 |        304 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\db\app_db.g.dart                                   | Dart     |      2,429 |          2 |         99 |      2,530 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\album_entity.dart                           | Dart     |          9 |          0 |          2 |         11 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\image_entity.dart                           | Dart     |         10 |          0 |          2 |         12 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\journal_entity.dart                         | Dart     |          9 |          0 |          2 |         11 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\note_entity.dart                            | Dart     |         10 |          0 |          2 |         12 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\notebook_entity.dart                        | Dart     |          9 |          0 |          2 |         11 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\remainder_entity.dart                       | Dart     |          8 |          0 |          2 |         10 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\todo_entity.dart                            | Dart     |          7 |          0 |          2 |          9 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\data\local\entity\user_entity.dart                            | Dart     |          8 |          0 |          2 |         10 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\main.dart                                                     | Dart     |         81 |          9 |          4 |         94 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\Gallery\Album.dart                                     | Dart     |         15 |          0 |          3 |         18 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\Gallery\ImageAttr.dart                                 | Dart     |         13 |          0 |          2 |         15 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\Journal\Journal.dart                                   | Dart     |         14 |          0 |          2 |         16 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\Notebook\Note.dart                                     | Dart     |         16 |          0 |          2 |         18 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\Notebook\Notebook.dart                                 | Dart     |         14 |          0 |          2 |         16 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\reminder\reminder.dart                                 | Dart     |         12 |          0 |          2 |         14 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\models\todo\todo.dart                                         | Dart     |         12 |          0 |          2 |         14 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\main-screen\get_started_screen.dart                   | Dart     |         50 |          5 |          2 |         57 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\main-screen\home_screen.dart                          | Dart     |        575 |         10 |         17 |        602 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\main-screen\login_screen.dart                         | Dart     |        337 |         33 |         12 |        382 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\main-screen\profile_screen.dart                       | Dart     |        293 |         14 |         12 |        319 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\main-screen\signup_screen.dart                        | Dart     |        306 |         16 |         12 |        334 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\album_screen.dart               | Dart     |        276 |         15 |         12 |        303 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\create_album_screen.dart        | Dart     |        149 |         10 |         17 |        176 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\edit_album_screen.dart          | Dart     |        174 |          5 |         11 |        190 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\image\add_image_screen.dart     | Dart     |        130 |          5 |         17 |        152 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\image\detail_image_screen.dart  | Dart     |        140 |          2 |          7 |        149 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\image\image_screen.dart         | Dart     |        430 |         26 |         15 |        471 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\journal\create_journal_screen.dart    | Dart     |        184 |          5 |         15 |        204 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\journal\detail_journal_screen.dart    | Dart     |        131 |          4 |          4 |        139 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\journal\edit_journal_screen.dart      | Dart     |        172 |          6 |         12 |        190 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\journal\journal_screen.dart           | Dart     |        384 |         13 |         15 |        412 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\create_notebook_screen.dart  | Dart     |        232 |          5 |         15 |        252 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\edit_notebook.dart           | Dart     |        185 |          0 |         14 |        199 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\note\create_note.dart        | Dart     |        207 |          1 |         15 |        223 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\note\detail_note_screen.dart | Dart     |        156 |          5 |          6 |        167 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\note\edit_note_screen.dart   | Dart     |        197 |          2 |         13 |        212 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\note\note_screen.dart        | Dart     |        114 |          0 |          9 |        123 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\notebook_screen.dart         | Dart     |        371 |         12 |         18 |        401 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\reminder\reminder_screen.dart         | Dart     |        390 |         17 |         19 |        426 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\todo\todo_screen.dart                 | Dart     |        380 |         18 |         20 |        418 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\screens\testing.dart                                          | Dart     |         86 |          6 |          7 |         99 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\add_reminder.dart                               | Dart     |         92 |          5 |          9 |        106 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\add_task.dart                                   | Dart     |         51 |          0 |          9 |         60 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\album_item.dart                                 | Dart     |         72 |          2 |          5 |         79 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\image_item.dart                                 | Dart     |         71 |         30 |          6 |        107 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\journal_item.dart                               | Dart     |        119 |          3 |          7 |        129 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\new_image.dart                                  | Dart     |         62 |          2 |          8 |         72 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\note_item.dart                                  | Dart     |        154 |          3 |          5 |        162 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\notebook_item.dart                              | Dart     |        171 |          3 |         10 |        184 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\reminder_item.dart                              | Dart     |        154 |          8 |          7 |        169 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\todo_item.dart                                  | Dart     |        128 |         15 |          7 |        150 |
+| d:\Flutter_projects\updated\sds\Mystica\lib\widgets\navigation.dart                                       | Dart     |        248 |          2 |          5 |        255 |
+| d:\Flutter_projects\updated\sds\Mystica\pubspec.yaml                                                      | YAML     |         53 |         55 |         15 |        123 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\flutter\generated_plugin_registrant.cc                    | C++      |          6 |          4 |          5 |         15 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\flutter\generated_plugin_registrant.h                     | C++      |          5 |          5 |          6 |         16 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\flutter\generated_plugins.cmake                           | CMake    |         19 |          0 |          6 |         25 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\flutter_window.cpp                                 | C++      |         45 |          4 |         13 |         62 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\flutter_window.h                                   | C++      |         20 |          5 |          9 |         34 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\main.cpp                                           | C++      |         30 |          4 |         10 |         44 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\resource.h                                         | C++      |          9 |          6 |          2 |         17 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\utils.cpp                                          | C++      |         53 |          2 |         10 |         65 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\utils.h                                            | C++      |          8 |          6 |          6 |         20 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\win32_window.cpp                                   | C++      |        183 |         15 |         48 |        246 |
+| d:\Flutter_projects\updated\sds\Mystica\windows\runner\win32_window.h                                     | C++      |         48 |         29 |         22 |         99 |
+| Total                                                                                                     |          |     10,734 |        533 |        744 |     12,011 |
++-----------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

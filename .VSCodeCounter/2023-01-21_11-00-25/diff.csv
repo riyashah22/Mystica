@@ -1,0 +1,14 @@
+"filename", "language", "YAML", "Dart", "comment", "blank", "total"
+"d:\Flutter_projects\updated\sds\Mystica\lib\main.dart", "Dart", 0, 2, 0, 0, 2
+"d:\Flutter_projects\updated\sds\Mystica\lib\models\Gallery\ImageAttr.dart", "Dart", 0, -2, 0, 0, -2
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\main-screen\home_screen.dart", "Dart", 0, 69, 1, 1, 71
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\album_screen.dart", "Dart", 0, 16, 1, 0, 17
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\create_album_screen.dart", "Dart", 0, 0, 1, 0, 1
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\edit_album_screen.dart", "Dart", 0, 26, 0, 3, 29
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\image\detail_image_screen.dart", "Dart", 0, 12, 0, 3, 15
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\album\image\image_screen.dart", "Dart", 0, 142, 7, 1, 150
+"d:\Flutter_projects\updated\sds\Mystica\lib\screens\submain-screens\notebook\note\create_note.dart", "Dart", 0, 64, 1, 2, 67
+"d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\album_item.dart", "Dart", 0, 16, -9, 5, 12
+"d:\Flutter_projects\updated\sds\Mystica\lib\widgets\Items\image_item.dart", "Dart", 0, 15, 25, 1, 41
+"d:\Flutter_projects\updated\sds\Mystica\pubspec.yaml", "YAML", 1, 0, 0, 0, 1
+"Total", "-", 1, 360, 27, 16, 404
