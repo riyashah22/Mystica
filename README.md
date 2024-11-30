@@ -20,7 +20,7 @@
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/vansh132/mystica.git
+    git clone https://github.com/riyashah22/mystica.git
     cd mystica
     ```
 
