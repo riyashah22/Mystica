@@ -56,15 +56,7 @@ class _AddReminderState extends State<AddReminder> {
                 onPressed: () {
                   DatePicker.showDatePicker(
                     context,
-                    theme: DatePickerTheme(
-                        containerHeight: 275,
-                        itemHeight: 72,
-                        titleHeight: 96,
-                        headerColor: Colors.black,
-                        doneStyle: TextStyle(color: Colors.white),
-                        cancelStyle: TextStyle(color: Colors.white),
-                        backgroundColor: Colors.white,
-                        itemStyle: TextStyle(fontSize: 24)),
+
                     showTitleActions: true,
                     minTime: DateTime.now(),
                     // maxTime: DateTime(2019, 6, 7),
